@@ -22,4 +22,5 @@ void setup() {
 
 void loop() {
 led.Update(); // Updates state of the output led.
+}
 ```
