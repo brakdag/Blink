@@ -1,6 +1,5 @@
-Welcome to blink!
+blink library for Arduino!
 ===================
-
 
 Hi, this arduino code aggregate allows you to control LED outputs that light up more easily, choosing the times and multiple on and off frequencies.
 
@@ -8,7 +7,7 @@ Hi, this arduino code aggregate allows you to control LED outputs that light up 
 
 Example code
 =============
-
+#### <i class="icon-file"></i> Create a document and paste de follow code.
 
 ```
 #include <blink.h>
@@ -23,4 +22,5 @@ void setup() {
 void loop() {
 led.Update(); // Updates state of the output led.
 }
+
 ```
