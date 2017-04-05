@@ -5,9 +5,10 @@ Hi, this arduino code aggregate allows you to control LED outputs that light up 
 
 ----------
 
-Example code
-=============
-#### <i class="icon-file"></i> Create a document and paste de follow code.
+Getting Started
+===============
+<i class="icon-file"></i> To start using the library you should open the example code *simpleblink* or alternatively you can
+create a document and paste de follow code.
 
 ```c++
 #include <blink.h>
